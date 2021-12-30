@@ -5,7 +5,7 @@
 // <summary>Represents the program class.</summary>
 // <author>Julian and Patrick Gamauf</author>
 //-----------------------------------------------------------------------
-namespace TextEditor
+namespace CS_Tabbed_Text_Editor
 {
     using System;
     using System.Windows.Forms;
@@ -23,8 +23,7 @@ namespace TextEditor
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            MainWindow mainWindow = new MainWindow();
-            Application.Run(mainWindow);
+            Application.Run(new MainWindow());
         }
     }
 }

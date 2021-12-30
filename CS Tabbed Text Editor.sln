@@ -1,9 +1,8 @@
-﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextEditor", "TextEditor\TextEditor.csproj", "{1A9B7179-78AD-46AA-A6E6-D8F17F1F23DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS Tabbed Text Editor", "CS Tabbed Text Editor\CS Tabbed Text Editor.csproj", "{1A9B7179-78AD-46AA-A6E6-D8F17F1F23DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
